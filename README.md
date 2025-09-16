@@ -42,5 +42,5 @@ The goal of this project is to showcase my ability to:
 
 **Ajay Kumar**  
 - Aspiring Data Analyst | Skilled in SQL, Python, Excel, Power BI  
-- Email: *[perapoguajaykumar88@gmail.com]*  
+- Email: *[perapoguajaykumar88@gmail.com]* 
 
